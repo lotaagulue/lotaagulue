@@ -9,10 +9,10 @@ Currently focused on security automation, endpoint compliance, and risk-driven s
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # Projects:
-<a href="https://github.com/PurpleLightSpeed/Virtual-Linux-Security-Lab">Virtual Linux Security Lab</a>
-<a href="https://github.com/PurpleLightSpeed/Password-Cracking-on-Linux">Password Cracking w/ Linux</a>
-<a href="https://github.com/PurpleLightSpeed/Create-a-Static-Website-Using-Amazon-S3-">Create a Static Website Using Amazon S3</a>
-<a href="https://github.com/PurpleLightSpeed/Python-Projects">Cybersecurity Python Projects</a>
+<a href="https://github.com/PurpleLightSpeed/Virtual-Linux-Security-Lab">Virtual Linux Security Lab</a><br/>
+<a href="https://github.com/PurpleLightSpeed/Password-Cracking-on-Linux">Password Cracking w/ Linux</a><br/>
+<a href="https://github.com/PurpleLightSpeed/Create-a-Static-Website-Using-Amazon-S3-">Create a Static Website Using Amazon S3</a><br/>
+<a href="https://github.com/PurpleLightSpeed/Python-Projects">Cybersecurity Python Projects</a><br/>
 <a href="https://github.com/PurpleLightSpeed/Tiny-App-Dash---RenderATL">Tiny App Dash RenderATL 2025</a>
 
 # 📊 GitHub Stats:
